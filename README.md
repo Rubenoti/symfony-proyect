@@ -1,1 +1,1 @@
-# sympony-proyect
+# symfony-proyect
