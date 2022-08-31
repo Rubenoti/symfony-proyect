@@ -1,8 +1,8 @@
 <?php return array(
     'root' => array(
-        'name' => 'rubenoti/symfony-proyect',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'name' => 'symfony/skeleton',
+        'pretty_version' => 'v5.4.99',
+        'version' => '5.4.99.0',
         'reference' => NULL,
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
@@ -75,15 +75,6 @@
             'provided' => array(
                 0 => '1.0|2.0',
             ),
-        ),
-        'rubenoti/symfony-proyect' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
-            'type' => 'project',
-            'install_path' => __DIR__ . '/../../',
-            'aliases' => array(),
-            'dev_requirement' => false,
         ),
         'symfony/cache' => array(
             'pretty_version' => 'v5.4.11',
@@ -345,6 +336,15 @@
             'provided' => array(
                 0 => '1.0|2.0',
             ),
+        ),
+        'symfony/skeleton' => array(
+            'pretty_version' => 'v5.4.99',
+            'version' => '5.4.99.0',
+            'reference' => NULL,
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
         ),
         'symfony/string' => array(
             'pretty_version' => 'v5.4.12',
